@@ -1,16 +1,17 @@
-DOMAIN-SUFFIX,cdninstagram.com,ins
-DOMAIN-SUFFIX,fb.com,ins
-DOMAIN-SUFFIX,fb.me,ins
-DOMAIN-SUFFIX,fbaddins.com,ins
-DOMAIN-SUFFIX,fbcdn.net,ins
-DOMAIN-SUFFIX,fbsbx.com,ins
-DOMAIN-SUFFIX,fbworkmail.com,ins
-DOMAIN-SUFFIX,instagram.com,ins
-DOMAIN-SUFFIX,m.me,ins
-DOMAIN-SUFFIX,messenger.com,ins
-DOMAIN-SUFFIX,oculus.com,ins
-DOMAIN-SUFFIX,oculuscdn.com,ins
-DOMAIN-SUFFIX,rocksdb.org,ins
-DOMAIN-SUFFIX,whatsapp.com,ins
-DOMAIN-SUFFIX,whatsapp.net,ins
+# > Facebook and Instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
 
